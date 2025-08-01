@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      yup:
+        specifier: ^1.6.1
+        version: 1.6.1
     devDependencies:
       prettier:
         specifier: ^3.6.2
@@ -23,9 +27,6 @@ importers:
       next:
         specifier: 15.4.5
         version: 15.4.5(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      yup:
-        specifier: ^1.6.1
-        version: 1.6.1
     devDependencies:
       '@types/node':
         specifier: ^20

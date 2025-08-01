@@ -8,8 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "15.4.5",
-    "yup": "^1.6.1"
+    "next": "15.4.5"
   },
   "devDependencies": {
     "@types/node": "^20",
