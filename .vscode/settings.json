@@ -6,7 +6,5 @@
       "mode": "auto"
     }
   ],
-  "conventionalCommits.scopes": [
-    "api"
-  ]
+  "conventionalCommits.scopes": ["api"]
 }
